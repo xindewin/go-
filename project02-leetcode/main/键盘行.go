@@ -1,10 +1,10 @@
-package mian
+package main
 
 import (
 	"fmt"
 	"unicode"
 )
-
+//转自他人题解
 func findWords(words []string) (ans []string) {
 	const rowIdx = "12210111011122000010020202"
 next:

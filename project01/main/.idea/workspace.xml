@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff28b934-5175-4745-b210-3a8ec01e9504" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-Goexit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test07.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test08.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test09.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project02-leetcode/main/分糖果.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project02-leetcode/main/回文数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/TCP-cs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/TCP-cs/.idea/TCP-cs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/TCP-cs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/TCP-cs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/TCP-cs/01-tcp-cs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/TCP-cs/02-tcp-cs-client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/TCP-cs/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/TCP-cs/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/TCP-cs/test03.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/main/.idea/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/main/01-获取浏览器http请求.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/main/02-获取http应答包.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/main/http2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project03-http/main/http3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project04-爬虫/content/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project04-爬虫/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project04-爬虫/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project04-爬虫/main/content2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project04-爬虫/main/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project04-爬虫/main/test03.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project04-爬虫/main/test2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test01.go" beforeDir="false" afterPath="$PROJECT_DIR$/test01.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project02-leetcode/main/键盘行.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../project02-leetcode/main/键盘行.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://C:/Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="21an7WJdptkiSsY7FVRIj0awqU2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build test01.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test01.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build test01.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
